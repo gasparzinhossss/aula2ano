@@ -1,0 +1,9 @@
+<div class="perfil">
+        <img class="imagem" src="personagem.png" alt="Foto do personagem">
+        <h3>Nome do personagem favorito</h3>
+        <a href="https://www.youtube.com/watch?v=1kh97CymN1o">Desenho onde o personagem aparece</a>
+    </div>
+.estudantes-todos{
+display: grid;
+
+}
